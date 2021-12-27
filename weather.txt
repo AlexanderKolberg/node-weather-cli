@@ -52,3 +52,9 @@
 2021-12-27T12:29:18.347Z: The weather in Prague Andy's Laundromat, Korunní 723/14, Praha 2-Vinohrady, Praha, Prague 120 00, Czech Republic is currently clear sky and 0C
 2021-12-27T17:05:31.933Z: The weather in Prague, Oklahoma, United States is currently few clouds and 14C
 2021-12-27T17:06:54.662Z: The weather in Prague, Czech Republic is currently broken clouds and 0C
+2021-12-27T19:52:17.813Z: The weather in Prague, Czech Republic is currently overcast clouds and 0C
+2021-12-27T20:10:03.159Z: The weather in Prague, Oklahoma, United States is currently scattered clouds and 16C
+2021-12-27T20:22:13.949Z: The weather in Prague, Czech Republic is currently overcast clouds and -1C
+2021-12-27T20:33:38.706Z: The weather in Prague, Oklahoma, United States is currently broken clouds and 61F
+2021-12-27T20:40:54.783Z: The weather in Prague, Czech Republic is currently overcast clouds and 31F
+2021-12-27T20:41:26.932Z: The weather in Prague Castle View Point, Ke Hradu, Praha, Prague 118 00, Czech Republic is currently overcast clouds and 31F
