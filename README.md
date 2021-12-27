@@ -1,6 +1,6 @@
 <br />
 <div align="center">
-<h3 align="center">Node Weather CLI</h3>
+<h2 align="center">Node Weather CLI</h2>
 <br />
   <p align="center">
     Simple Weather CLI build with Node
