@@ -5,8 +5,9 @@ import main from "./lib/main.mjs";
 yargs(hideBin(process.argv))
   .option("celsius", {
     alias: "c",
-    describe: "Display and log temperature in celsius",
+    describe: "Display and log temperature in celsius (default)",
     type: "boolean",
+    //default: true, //cant make a default value mutually exclusive
     conflicts: "fahrenheit",
   })
   .option("fahrenheit", {

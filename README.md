@@ -9,7 +9,7 @@
 
 ## About The Project
 
-A simple weather CLI using OpenWeather and mapbox APIs
+A simple weather CLI using OpenWeather and mapbox APIs using ECMAScript modules (ESM) in Node
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -26,12 +26,13 @@ A simple weather CLI using OpenWeather and mapbox APIs
 2. Clone the repo
    ```sh
    git clone git@github.com:kolberg-dev/node-weather-cli.git
+   cd node-weather-cli
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Make an dotenv file `.env`
+4. Make an dotenv file `.env` with the following content
    ```sh
    MAPBOX_API_KEY = yourMapboxApiKey
    OPENWEATHERMAP_API_KEY = yourOpenWeatherApiKey
