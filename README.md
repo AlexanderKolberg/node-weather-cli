@@ -41,7 +41,14 @@ A simple weather CLI using OpenWeather and mapbox APIs using ECMAScript modules 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
-<img width="738" alt="Screenshot 2021-12-27 at 18 35 01" src="https://user-images.githubusercontent.com/74478295/147495519-e9d1375b-d984-4167-8cc0-23d176dbd255.png">
+<img width="716" alt="Screenshot of the help dialog" src="https://user-images.githubusercontent.com/74478295/147546335-d5c12ea0-36c5-4bc1-8992-210674c5f982.png">
+Run the program with:
+   ```sh
+    node weather.js <Location>
+   ```
+<img width="716" alt="Screenshot of the location menu" src="https://user-images.githubusercontent.com/74478295/147546333-4de661df-89b4-43df-8e7b-4069461bddf2.png">
+Choose the most accurat location in the menu
+<img width="716" alt="Screenshot of result" src="https://user-images.githubusercontent.com/74478295/147546323-437f75cd-a6d0-4331-b387-6ce37d78403b.png">
 
 
 
