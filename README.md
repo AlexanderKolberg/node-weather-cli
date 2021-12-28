@@ -41,5 +41,8 @@ A simple weather CLI using OpenWeather and mapbox APIs using ECMAScript modules 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Usage
+<img width="738" alt="Screenshot 2021-12-27 at 18 35 01" src="https://user-images.githubusercontent.com/74478295/147495519-e9d1375b-d984-4167-8cc0-23d176dbd255.png">
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
